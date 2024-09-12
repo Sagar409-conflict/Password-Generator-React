@@ -2,8 +2,8 @@
 
 A **Password Generator** built with **React.js** to help you create secure passwords quickly! 🔒💻
 
-[🔗 **Live Demo**](https://your-live-link.com) – Check out the live version of the password generator!
-![Password Generator Preview](path_to_image)
+[🔗 **Live Demo**](https://password-generator-nine-weld-66.vercel.app/) – Check out the live version of the password generator!
+![Password Generator Preview](./public/App_Images/Screenshots/App.png)
 
 ## ✨ Features
 
