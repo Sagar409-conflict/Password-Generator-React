@@ -32,7 +32,7 @@ function App() {
 
   const copyToClipBoardButton = useCallback(() => {
     passwordRef.current?.select();
-    passwordRef.current?.setSelectionRange(0, 2);
+    // passwordRef.current?.setSelectionRange(0, 2);
     window.navigator.clipboard.writeText(password);
   }, [password]);
   useEffect(() => {
